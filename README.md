@@ -26,8 +26,10 @@
 </div>
 
 # Sobre
-'compose install'
-
+ ```bash
+$ compose install
+```
+                          
 # Tecnologias
 - Ubuntu v22.04.1 LTS ;
 - Docker v4.13;
