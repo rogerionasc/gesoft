@@ -26,6 +26,7 @@
 </div>
 
 # Sobre
+'compose install'
 
 # Tecnologias
 - Ubuntu v22.04.1 LTS ;
