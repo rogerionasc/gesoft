@@ -27,7 +27,7 @@
 
 # Sobre
  ```bash
-$ compose install
+$ compose update
 ```
                           
 # Tecnologias
