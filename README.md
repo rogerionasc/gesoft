@@ -37,6 +37,7 @@ $ compose update
 - Xdebug v3.1;
 - Apache v2.2.52;
 - Composer v2.5;
+- Laravel v9.x;
 
 # Funcionalidade
 
