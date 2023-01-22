@@ -8,14 +8,13 @@ RUN apt-get update && \
     php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" && \
     php composer-setup.php && \
     php -r "unlink('composer-setup.php');" && \
-    mv composer.phar /usr/local/bin/composer
-
-WORKDIR /var/www/html
-
-EXPOSE 80
-
-ENTRYPOINT /etc/init.d/apache2 start && /bin/bash
-
-CMD ["true"]
+    mv composer.phar /usr/local/bin/composer && \
+    apt-get install -y curl && \
+    apt-get install -y php8.1-xml
 
 
+WORKDIR /var/www/html/appWeb
+
+COPY ./appWeb /var/www/html/appWeb/
+
+EXPOSE 80 3306 8000

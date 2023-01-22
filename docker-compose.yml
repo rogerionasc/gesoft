@@ -1,4 +1,4 @@
-version: "3"
+version: "2.4"
 
 networks:
   gesoft_net:
@@ -9,10 +9,11 @@ services:
   db:
     container_name: Mariadb
     image: mariadb
+    restart: unless-stopped
     networks:
       - "gesoft_net"
     ports:
-      - 3300:3306
+      - "3306:3306"
     volumes:
       - ./db_data:/var/lib/mysql
     environment:
@@ -20,18 +21,21 @@ services:
       MARIADB_DATABASE: ${DATABASE_DATABASE}
       MARIADB_USER: ${DATABASE_USER}
       MARIADB_PASSWORD: ${DATABASE_PASSWORD}
-    
     tty: true
       
-  site:
+  app:
     container_name: appWeb
-    image: rogerionasc/gesoft:v1.0
+    image: rogerionasc/gesoft:latest
+    restart: unless-stopped
+    entrypoint: bash -c '/etc/init.d/apache2 start && php /var/www/html/appWeb/artisan serve --host 0.0.0.0'
     networks:
       - gesoft_net
     ports:
-      - 8000:80
+      - "8000:8000"
+      - "8080:80"
+    working_dir: /var/www/html/appWeb
     volumes:
-      - ./appWeb:/var/www/html
+      - ./appWeb:/var/www/html/appWeb
     depends_on:
       - db
     tty: true
