@@ -20,6 +20,7 @@ services:
       MARIADB_DATABASE: ${DATABASE_DATABASE}
       MARIADB_USER: ${DATABASE_USER}
       MARIADB_PASSWORD: ${DATABASE_PASSWORD}
+    
     tty: true
       
   site:
