@@ -1,0 +1,36 @@
+version: "3"
+
+networks:
+  gesoft_net:
+    name: gesoft_net
+    driver: bridge
+
+services:
+  db:
+    container_name: Mariadb
+    image: mariadb
+    networks:
+      - "gesoft_net"
+    ports:
+      - 3300:3306
+    volumes:
+      - ./db_data:/var/lib/mysql
+    environment:
+      MARIADB_ROOT_PASSWORD: ${DATABASE_ROOT_PASSWORD}
+      MARIADB_DATABASE: ${DATABASE_DATABASE}
+      MARIADB_USER: ${DATABASE_USER}
+      MARIADB_PASSWORD: ${DATABASE_PASSWORD}
+    tty: true
+      
+  site:
+    container_name: appWeb
+    image: rogerionasc/gesoft:v1.0
+    networks:
+      - gesoft_net
+    ports:
+      - 8000:80
+    volumes:
+      - ./appWeb:/var/www/html
+    depends_on:
+      - db
+    tty: true
