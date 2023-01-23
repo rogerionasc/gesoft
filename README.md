@@ -40,7 +40,7 @@ $ git clone https://github.com/{username}/{repo}.git
                           
 Acesse o projeto
    ```bash
-$ cd `seuprojeto`
+$ cd {seuprojeto}
 ```   
 
 Instale as dependências e o framework
