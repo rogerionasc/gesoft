@@ -46,6 +46,7 @@ $ cd seuprojeto
 Instale as dependências e o framework
    ```bash
 $ composer install --no-scripts
+                          
 $ compose update
 ```                         
 
