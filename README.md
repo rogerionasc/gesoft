@@ -46,6 +46,7 @@ $ cd seuprojeto
 Instale as dependências e o framework
    ```bash
 $ composer install --no-scripts
+$ compose update
 ```                         
 
 Copie o arquivo .env.example
@@ -68,25 +69,13 @@ Em relação ao npm, isso varia de projeto para projeto, mas provavelmente você
 
 ```bash
 $ npm install
-```                            
 
- ```bash
 $ bower install
-```                     
 
-```bash
 $ gulp
 ```
 
 Se você não faz idéia do que significa estes comandos, sugiro que comece a estudar um a um antes de colocar uma aplicação em produção. A documentação oficial do Laravel 9. 
-
-
-
-
-
- ```bash
-$ compose update
-```
                           
 # Tecnologias
 - Ubuntu v22.04.1 LTS ;
