@@ -49,15 +49,23 @@ Crie uma nova chave para a aplicação
 
 Em seguida você deve configurar o arquivo .env e rodar as migrations com:
 
-´php artisan migrate --seed´
+ ```bash
+$ php artisan migrate --seed
+```
 
 Em relação ao npm, isso varia de projeto para projeto, mas provavelmente você também vai precisar rodar os seguintes comandos:
 
-´npm install´
+```bash
+$ npm install
+```                            
 
-´bower install´
+ ```bash
+$ bower install
+```                     
 
-´gulp´
+```bash
+ gulp
+```
 
 Se você não faz idéia do que significa estes comandos, sugiro que comece a estudar um a um antes de colocar uma aplicação em produção. A documentação oficial do Laravel 9. 
 
