@@ -35,7 +35,7 @@ Vou novamente considerar que você esteja rodando um sistema operacional Linux e
 
 Clone o projeto
    ```bash
-$ git clone https://github.com/<username>/<repo>.git
+$ git clone https://github.com/<<username<>/<repo>.git
 ``` 
                           
 Acesse o projeto
