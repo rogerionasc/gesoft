@@ -26,7 +26,12 @@
 </div>
 
 # Sobre
-                          
+
+# Funcionalidade
+
+- Criação de Contas de Usuários;
+- Gerenciamento de Dados do Perfil;
+- Formulário de Contato.
 
 # Como instalar
 
@@ -86,12 +91,6 @@ Se você não faz idéia do que significa estes comandos, sugiro que comece a es
 - Apache v2.2.52;
 - Composer v2.5;
 - Laravel v9.x;
-
-# Funcionalidade
-
-- Criação de Contas de Usuários;
-- Gerenciamento de Dados do Perfil;
-- Formulário de Contato.
 
 # Créditos
 
