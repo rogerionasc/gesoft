@@ -44,7 +44,7 @@ O `Lorem Ipsum` é um texto modelo da indústria tipográfica e de impressão. O
 - Morbi vulputate ante sit amet leo blandit accumsan.
 - Aliquam dictum nisi vitae velit venenatis aliquam
                           
-# Como instalar
+# Instalar
 
 Clonando um projeto e instalando o Laravel
 Vou novamente considerar que você esteja rodando um sistema operacional Linux e com o git instalado, faça o seguinte:
