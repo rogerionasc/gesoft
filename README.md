@@ -18,7 +18,7 @@
 <div align="center">
     <p>
         <a href="#sobre">Sobre</a> |
-        <a href="#funcionalidade">Sobre</a> |
+        <a href="#funcionalidade">Funcionalidade</a> |
         <a href="#tecnologias">Tecnologia</a> |
          <a href="#funcionalidade">Funcionalidade</a> |
         <a href="#créditos">Crédito</a> |
