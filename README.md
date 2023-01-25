@@ -2,13 +2,17 @@
     <p>
         <img src="https://raw.githubusercontent.com/rogerionasc/gesoft/main/img/color-gesoft.svg" width="420" />
     </p>
-      <p>
-          <a href="#">
+</div>
+
+
+<div align="center">
+    <p>
+         <a href="#">
             <img src="https://img.shields.io/github/repo-size/rogerionasc/gesoft?style=flat-square" alt="Repo Size" />
-          </a>
+         </a>
            <a href="https://hub.docker.com/r/rogerionasc/gesoft/tags">
             <img src="https://img.shields.io/docker/v/rogerionasc/gesoft?arch=amd64&sort=date&style=flat-square alt="Version docker " />
-          </a>
+         </a>
            <a href="https://www.gnu.org/licenses/gpl-3.0.html">
             <img src="https://img.shields.io/github/license/rogerionasc/gesoft?style=flat-square" alt=" License GPL-V3" />
           </a>
