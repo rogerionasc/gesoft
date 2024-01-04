@@ -36,7 +36,7 @@ O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelên
 <table>
     <tr>
         <th>Funcionalidade</th>
-        <th>Descriçã</th>
+        <th>Descrição</th>
     </tr>
     <tr>
         <td>
@@ -46,6 +46,80 @@ O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelên
              <p>Gerenciamento completo de informações dos pacientes, incluindo dados pessoais, histórico médico, contatos e registros financeiros.</p>
         </td>
     </tr>
+    <tr>
+        <td>
+            <p>Agendamento de Consultas:</p>
+        </td>
+        <td>
+             <p>Funcionalidade para agendar e gerenciar consultas médicas, exames e procedimentos.</p></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>Prontuário Eletrônico:</p>
+        </td>
+        <td>
+             <p>Armazenamento seguro e acessível eletronicamente de registros médicos, facilitando o acompanhamento do histórico de saúde dos pacientes.</p></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>Prescrição Eletrônica:</p>
+        </td>
+        <td>
+             <p>Possibilidade de prescrever medicamentos de forma eletrônica, com integração a farmácias e controle de estoque.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>Controle de Estoque:</p>
+        </td>
+        <td>
+             <p>Gestão eficiente do estoque de medicamentos, materiais e equipamentos médicos, evitando desperdícios e garantindo disponibilidade quando necessário.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p></p>
+        </td>
+        <td>
+             <p></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p></p>
+        </td>
+        <td>
+             <p></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p></p>
+        </td>
+        <td>
+             <p></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p></p>
+        </td>
+        <td>
+             <p></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p></p>
+        </td>
+        <td>
+             <p></p>
+        </td>
+    </tr>
+   
+    
 </table>
 
 ## - Cadastro de Pacientes:
