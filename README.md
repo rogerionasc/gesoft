@@ -13,9 +13,6 @@
            <a href="https://hub.docker.com/r/rogerionasc/gesoft/tags">
             <img src="https://img.shields.io/docker/v/rogerionasc/gesoft?arch=amd64&sort=date&style=flat-square alt="Version docker " />
          </a>
-           <a href="https://www.gnu.org/licenses/gpl-3.0.html">
-            <img src="https://img.shields.io/github/license/rogerionasc/gesoft?style=flat-square" alt=" License " />
-          </a>
     </p>
 </div>
 
