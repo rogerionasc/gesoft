@@ -33,11 +33,11 @@ O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelên
 
 # Funcionalidade
 
-- Cadastro de Pacientes:
+**- Cadastro de Pacientes:**
     Gerenciamento completo de informações dos pacientes, incluindo dados pessoais, histórico médico, contatos e registros financeiros.
 - Agendamento de Consultas:
     Funcionalidade para agendar e gerenciar consultas médicas, exames e procedimentos.
-- Prontuário Eletrônico:
+**- Prontuário Eletrônico:**
     Armazenamento seguro e acessível eletronicamente de registros médicos, facilitando o acompanhamento do histórico de saúde dos pacientes.
 - Prescrição Eletrônica:
     Possibilidade de prescrever medicamentos de forma eletrônica, com integração a farmácias e controle de estoque.
