@@ -133,7 +133,7 @@ O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelên
 
 # Licença
 
-## Licença de Medclinic - Versão 1.0
+## Licença de Maclinic - Versão 1.0
 
 Este é um contrato legal entre o licenciado a Gesoft LTDA. Ao utilizar o software fornecido por Gesoft LTDA, o Usuário concorda com os termos e condições deste contrato.
 
