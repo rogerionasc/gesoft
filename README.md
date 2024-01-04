@@ -20,9 +20,7 @@
     <p>
         <a href="#sobre">Sobre</a> |
         <a href="#funcionalidade">Funcionalidade</a> |
-        <a href="#Instalar">Instalar</a> |
         <a href="#tecnologias">Tecnologia</a> |
-         <a href="#funcionalidade">Funcionalidade</a> |
         <a href="#créditos">Crédito</a> |
         <a href="#licença">Licença</a>
     </p>
