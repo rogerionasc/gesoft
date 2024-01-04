@@ -33,7 +33,8 @@
 
 # Sobre
 
-O `Maclinic ERP` é uma solução avançada de Enterprise Resource Planning (ERP) projetada especificamente para otimizar a gestão completa de clínicas, proporcionando uma abordagem integrada e eficiente para todas as operações. Desenvolvido com a mais recente tecnologia, o MedConnect oferece uma gama abrangente de funcionalidades para atender às necessidades específicas do setor de saúde.
+O `Maclinic ERP` é uma solução avançada de Enterprise Resource Planning (ERP) projetada especificamente para otimizar a gestão completa de clínicas, proporcionando uma abordagem integrada e eficiente para todas as operações. Desenvolvido com a mais recente tecnologia, o Maclinic ERP oferece uma gama abrangente de funcionalidades para atender às necessidades específicas do setor de saúde.
+O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelência clínica. Ele capacita as clínicas a oferecerem cuidados de saúde de alta qualidade, ao mesmo tempo que simplifica as operações administrativas, impulsionando a eficiência e o sucesso sustentável. Transforme sua clínica com o Maclinic ERP - onde a inovação encontra a saúde.
 
 # Funcionalidade
 
