@@ -33,29 +33,29 @@ O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelên
 
 # Funcionalidade
 
-<p>- Cadastro de Pacientes:</p>
+#### - Cadastro de Pacientes:
     Gerenciamento completo de informações dos pacientes, incluindo dados pessoais, histórico médico, contatos e registros financeiros.
-<p>- Agendamento de Consultas:</p>
+#### - Agendamento de Consultas:
     Funcionalidade para agendar e gerenciar consultas médicas, exames e procedimentos.
-<p>- Prontuário Eletrônico:</p>
+#### - Prontuário Eletrônico:
     Armazenamento seguro e acessível eletronicamente de registros médicos, facilitando o acompanhamento do histórico de saúde dos pacientes.
-<p>- Prescrição Eletrônica:</p>
+#### - Prescrição Eletrônica:
     Possibilidade de prescrever medicamentos de forma eletrônica, com integração a farmácias e controle de estoque.
-<p>- Controle de Estoque:</p>
+####- Controle de Estoque:
     Gestão eficiente do estoque de medicamentos, materiais e equipamentos médicos, evitando desperdícios e garantindo disponibilidade quando necessário.
-<p>- Faturamento e Financeiro:</p>
+#### - Faturamento e Financeiro:
     Funcionalidades para emissão de faturas, controle de pagamentos, integração com convênios médicos e gestão de receitas e despesas.
-<p>- Gestão de Recursos Humanos:</p>
+#### - Gestão de Recursos Humanos:
     Controle de informações dos profissionais de saúde, escalas de trabalho, folha de pagamento e gestão de treinamentos.
-<p>- Integração Laboratorial:</p>
+#### - Integração Laboratorial:
     Integração com laboratórios para solicitação e recebimento de resultados de exames, facilitando o acompanhamento do estado de saúde dos pacientes.
-<p>- Relatórios e Indicadores:</p>
+#### - Relatórios e Indicadores:
     Geração de relatórios gerenciais que oferecem insights sobre o desempenho operacional, financeiro e clínico da instituição.
-<p>- Segurança e Conformidade:</p>
+#### - Segurança e Conformidade:
     Mecanismos robustos de segurança para proteger dados sensíveis e garantir conformidade com regulamentações de saúde, como o prontuário eletrônico seguro.
-<p>- Comunicação Interna:</p>
+#### - Comunicação Interna:
     Ferramentas para comunicação interna eficiente entre os membros da equipe médica e administrativa.
-<p>- Acesso Remoto:</p>
+#### - Acesso Remoto:
     Acesso seguro às informações do sistema de qualquer lugar, facilitando a colaboração e o acompanhamento remoto.
                           
 
