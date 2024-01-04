@@ -133,7 +133,7 @@ O WCode Clinic ERP é mais do que um sistema de gestão; é uma parceria na exce
 
 # Licença
 
-## Licença de WCode Clinic - Versão 1.0
+## Licença do WCode Clinic - Versão 1.0
 
 Este é um contrato legal entre o licenciado a WCode Solução e Inovação LTDA. Ao utilizar o software fornecido por WCode Solução e Inovação LTDA, o Usuário concorda com os termos e condições deste contrato.
 
