@@ -35,8 +35,8 @@ O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelên
 
 <table>
     <tr>
-        <th>Funcionalidade</th>
-        <th>Descrição</th>
+        <th><h3>característica</h3></th>
+        <th><h3>Descrição</h3></th>
     </tr>
     <tr>
         <td>
