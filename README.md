@@ -52,7 +52,40 @@ O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelên
 - Acesso Remoto.
                           
 
-# Licença
+## Licença
 
-`GESOFT` é uma sistema web com licença pública e com algumas restrições. Para usar esse sistema leia antes [<a href="http://creativecommons.org/licenses/by-nc/3.0/"> CC V3 </a>]
+#Licença de Medclinic - Versão 1.0
 
+Este é um contrato legal entre o licenciado a Gesoft LTDA. Ao utilizar o software fornecido por Gesoft LTDA, o Usuário concorda com os termos e condições deste contrato.
+
+1. Concessão de Licença:
+
+A Gesoft LTDA concede ao Usuário uma licença não exclusiva e intransferível para usar o Software de acordo com os termos e condições estabelecidos neste contrato, em conformidade com o artigo 7º, inciso VI, da Lei nº 9.610/1998 (Lei de Direitos Autorais).
+
+2. Restrições:
+
+a. O Usuário concorda em não reproduzir, modificar, distribuir ou sublicenciar o Software, total ou parcialmente, sem a permissão expressa por escrito da XYZ, conforme previsto no artigo 29, incisos I e III, da Lei nº 9.610/1998.
+
+b. O Usuário concorda em não realizar engenharia reversa, descompilar ou desmontar o Software, exceto na medida permitida por lei, de acordo com o artigo 6º, inciso IV, da Lei nº 9.609/1998 (Lei de Software).
+
+3. Propriedade Intelectual:
+
+Todos os direitos de propriedade intelectual relacionados ao Software são de propriedade exclusiva da Gesoft LTDA, em conformidade com o artigo 8º da Lei nº 9.610/1998. Nada neste contrato concede ao Usuário quaisquer direitos de propriedade intelectual sobre o Software, exceto os expressamente concedidos neste documento.
+
+4. Suporte Técnico:
+
+A Gesoft LTDA pode, a seu critério exclusivo, fornecer suporte técnico para o Software. Tal suporte será regido por termos separados.
+
+5. Isenção de Garantias:
+
+O Software é fornecido "como está", sem garantias de qualquer tipo, expressas ou implícitas, incluindo, mas não se limitando a, garantias de comerciabilidade, adequação a uma finalidade específica e não infração, conforme estabelecido no artigo 26, inciso II, do Código de Defesa do Consumidor.
+
+6. Limitação de Responsabilidade:
+
+Em nenhuma circunstância a Gesoft LTDA será responsável por quaisquer danos diretos, indiretos, incidentais, especiais, exemplares ou consequenciais, incluindo perda de lucros, interrupção de negócios ou perda de dados, de acordo com o artigo 14 do Código de Defesa do Consumidor.
+
+7. Lei Aplicável e Jurisdição:
+
+Este contrato é regido pelas leis da República Federativa do Brasil. As partes concordam que qualquer disputa decorrente deste contrato será resolvida pelos tribunais competentes na jurisdição da sede da Gesoft LTDA.
+
+Ao utilizar o Software, o Usuário concorda com os termos e condições deste contrato, em conformidade com a legislação brasileira vigente.
