@@ -54,5 +54,5 @@ O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelên
 
 # Licença
 
-`GESOFT` é uma sistema web com licença pública e com algumas restrições. Para usar esse sistema leia antes [<a href="[http://creativecommons.org/licenses/by-nc/3.0/]"> CC V3 </a>]
+`GESOFT` é uma sistema web com licença pública e com algumas restrições. Para usar esse sistema leia antes [<a href="http://creativecommons.org/licenses/by-nc/3.0/"> CC V3 </a>]
 
