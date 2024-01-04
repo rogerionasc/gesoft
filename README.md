@@ -80,97 +80,56 @@ O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelên
     </tr>
     <tr>
         <td>
-            <p></p>
+            <p>Faturamento e Financeiro:</p>
         </td>
         <td>
-             <p></p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p></p>
-        </td>
-        <td>
-             <p></p>
+             <p>Funcionalidades para emissão de faturas, controle de pagamentos, integração com convênios médicos e gestão de receitas e despesas.</p>
         </td>
     </tr>
     <tr>
         <td>
-            <p></p>
+            <p>Gestão de Recursos Humanos:</p>
         </td>
         <td>
-             <p></p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <p></p>
-        </td>
-        <td>
-             <p></p>
+             <p>Controle de informações dos profissionais de saúde, escalas de trabalho, folha de pagamento e gestão de treinamentos.</p>
         </td>
     </tr>
     <tr>
         <td>
-            <p></p>
+            <p>Integração Laboratorial:</p>
         </td>
         <td>
-             <p></p>
+             <p>Possibilidade de prescrever medicamentos de forma eletrônica, com integração a farmácias e controle de estoque.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>Relatórios e Indicadores:</p>
+        </td>
+        <td>
+             <p>Geração de relatórios gerenciais que oferecem insights sobre o desempenho operacional, financeiro e clínico da instituição.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>Comunicação Interna:</p>
+        </td>
+        <td>
+             <p>Ferramentas para comunicação interna eficiente entre os membros da equipe médica e administrativa.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>Acesso Remoto:</p>
+        </td>
+        <td>
+             <p>Acesso seguro às informações do sistema de qualquer lugar, facilitando a colaboração e o acompanhamento remoto.</p>
         </td>
     </tr>
    
     
 </table>
-
-## - Cadastro de Pacientes:
-
-    Gerenciamento completo de informações dos pacientes, incluindo dados pessoais, histórico médico, contatos e registros financeiros.
-
-## - Agendamento de Consultas:
-
-    Funcionalidade para agendar e gerenciar consultas médicas, exames e procedimentos.
-
-## - Prontuário Eletrônico:
-
-    Armazenamento seguro e acessível eletronicamente de registros médicos, facilitando o acompanhamento do histórico de saúde dos pacientes.
-
-## - Prescrição Eletrônica:
-
-    Possibilidade de prescrever medicamentos de forma eletrônica, com integração a farmácias e controle de estoque.
-
-## - Controle de Estoque:
-
-    Gestão eficiente do estoque de medicamentos, materiais e equipamentos médicos, evitando desperdícios e garantindo disponibilidade quando necessário.
-
-## - Faturamento e Financeiro:
-
-    Funcionalidades para emissão de faturas, controle de pagamentos, integração com convênios médicos e gestão de receitas e despesas.
-
-## - Gestão de Recursos Humanos:
-
-    Controle de informações dos profissionais de saúde, escalas de trabalho, folha de pagamento e gestão de treinamentos.
-
-## - Integração Laboratorial:
-
-    Integração com laboratórios para solicitação e recebimento de resultados de exames, facilitando o acompanhamento do estado de saúde dos pacientes.
-
-## - Relatórios e Indicadores:
-
-    Geração de relatórios gerenciais que oferecem insights sobre o desempenho operacional, financeiro e clínico da instituição.
-
-## - Segurança e Conformidade:
-
-    Mecanismos robustos de segurança para proteger dados sensíveis e garantir conformidade com regulamentações de saúde, como o prontuário eletrônico seguro.
-
-## - Comunicação Interna:
-
-    Ferramentas para comunicação interna eficiente entre os membros da equipe médica e administrativa.
-
-## - Acesso Remoto:
-
-    Acesso seguro às informações do sistema de qualquer lugar, facilitando a colaboração e o acompanhamento remoto.
-
-                          
+        
 
 # Licença
 
