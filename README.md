@@ -33,6 +33,22 @@ O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelên
 
 # Funcionalidade
 
+<table>
+    <tr>
+        <th>Funcionalidade</th>
+        <th>Descriçã</th>
+    </tr>
+    <tr>
+        <td>
+            Cadastro de Pacientes:
+        </td>
+            Gerenciamento completo de informações dos pacientes, incluindo dados pessoais, histórico médico, contatos e registros financeiros.
+        <td>
+            
+        </td>
+    </tr>
+</table>
+
 ## - Cadastro de Pacientes:
 
     Gerenciamento completo de informações dos pacientes, incluindo dados pessoais, histórico médico, contatos e registros financeiros.
