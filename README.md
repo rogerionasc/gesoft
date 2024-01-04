@@ -34,18 +34,17 @@ O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelên
 # Funcionalidade
 
 | Parâmetro   | Descrição                                                                                                                                              |
-| :---------  :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Cadastro de Pacientes       | `Gerenciamento completo de informações dos pacientes, incluindo dados pessoais, histórico médico, contatos e registros financeiros.` |
-| Agendamento de Consultas:    | `  Funcionalidade para agendar e gerenciar consultas médicas, exames e procedimentos. ` |
-| Prontuário Eletrônico:    | ` Armazenamento seguro e acessível eletronicamente de registros médicos, facilitando o acompanhamento do histórico de saúde dos pacientes. ` |
-| Prescrição Eletrônica:   | ` Possibilidade de prescrever medicamentos de forma eletrônica, com integração a farmácias e controle de estoque. ` |
-| Controle de Estoque:    | ` Gestão eficiente do estoque de medicamentos, materiais e equipamentos médicos, evitando desperdícios e garantindo disponibilidade quando necessário.
+| :---------  :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cadastro de Pacientes       | `Gerenciamento completo de informações dos pacientes, incluindo dados pessoais, histórico médico, contatos e registros financeiros.`       |
+| Agendamento de Consultas:   | `  Funcionalidade para agendar e gerenciar consultas médicas, exames e procedimentos. `                                                    |
+| Prontuário Eletrônico:      | ` Armazenamento seguro e acessível eletronicamente de registros médicos, facilitando o acompanhamento do histórico de saúde dos pacientes. ` |
+| Prescrição Eletrônica:      | ` Possibilidade de prescrever medicamentos de forma eletrônica, com integração a farmácias e controle de estoque. `                        |
+| Controle de Estoque:        | ` Gestão eficiente do estoque de medicamentos, materiais e equipamentos médicos, evitando desperdícios e garantindo disponibilidade quando necessário.
  ` |
-| Gestão de Recursos Humanos:   | ` Funcionalidades para emissão de faturas, controle de pagamentos, integração com convênios médicos e gestão de receitas e despesas. ` |
+| Gestão de Recursos Humanos:   | ` Funcionalidades para emissão de faturas, controle de pagamentos, integração com convênios médicos e gestão de receitas e despesas. `   |
 | Integração Laboratorial:    | ` Integração com laboratórios para solicitação e recebimento de resultados de exames, facilitando o acompanhamento do estado de saúde dos pacientes. ` |
-| Comunicação Interna:    | ` Ferramentas para comunicação interna eficiente entre os membros da equipe médica e administrativa. ` |
-| Acesso Remoto:    | ` Acesso seguro às informações do sistema de qualquer lugar, facilitando a colaboração e o acompanhamento remoto.
- ` |
+| Comunicação Interna:    | ` Ferramentas para comunicação interna eficiente entre os membros da equipe médica e administrativa. `                                         |
+| Acesso Remoto:    | ` Acesso seguro às informações do sistema de qualquer lugar, facilitando a colaboração e o acompanhamento remoto. `                                  |
 
 
 
