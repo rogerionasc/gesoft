@@ -33,30 +33,54 @@ O Maclinic ERP é mais do que um sistema de gestão; é uma parceria na excelên
 
 # Funcionalidade
 
-#### - Cadastro de Pacientes:
+## - Cadastro de Pacientes:
+```http
     Gerenciamento completo de informações dos pacientes, incluindo dados pessoais, histórico médico, contatos e registros financeiros.
-#### - Agendamento de Consultas:
+```
+## - Agendamento de Consultas:
+```http
     Funcionalidade para agendar e gerenciar consultas médicas, exames e procedimentos.
-#### - Prontuário Eletrônico:
+```
+## - Prontuário Eletrônico:
+```http
     Armazenamento seguro e acessível eletronicamente de registros médicos, facilitando o acompanhamento do histórico de saúde dos pacientes.
-#### - Prescrição Eletrônica:
+```
+## - Prescrição Eletrônica:
+```http
     Possibilidade de prescrever medicamentos de forma eletrônica, com integração a farmácias e controle de estoque.
-####- Controle de Estoque:
+```
+## - Controle de Estoque:
+```http
     Gestão eficiente do estoque de medicamentos, materiais e equipamentos médicos, evitando desperdícios e garantindo disponibilidade quando necessário.
-#### - Faturamento e Financeiro:
+```
+## - Faturamento e Financeiro:
+```http
     Funcionalidades para emissão de faturas, controle de pagamentos, integração com convênios médicos e gestão de receitas e despesas.
-#### - Gestão de Recursos Humanos:
+```
+## - Gestão de Recursos Humanos:
+```http
     Controle de informações dos profissionais de saúde, escalas de trabalho, folha de pagamento e gestão de treinamentos.
-#### - Integração Laboratorial:
+```
+## - Integração Laboratorial:
+```http
     Integração com laboratórios para solicitação e recebimento de resultados de exames, facilitando o acompanhamento do estado de saúde dos pacientes.
-#### - Relatórios e Indicadores:
+```
+## - Relatórios e Indicadores:
+```http
     Geração de relatórios gerenciais que oferecem insights sobre o desempenho operacional, financeiro e clínico da instituição.
-#### - Segurança e Conformidade:
+```
+## - Segurança e Conformidade:
+```http
     Mecanismos robustos de segurança para proteger dados sensíveis e garantir conformidade com regulamentações de saúde, como o prontuário eletrônico seguro.
-#### - Comunicação Interna:
+```
+## - Comunicação Interna:
+```http
     Ferramentas para comunicação interna eficiente entre os membros da equipe médica e administrativa.
-#### - Acesso Remoto:
+```
+## - Acesso Remoto:
+```http
     Acesso seguro às informações do sistema de qualquer lugar, facilitando a colaboração e o acompanhamento remoto.
+```
                           
 
 # Licença
